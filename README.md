@@ -21,7 +21,7 @@ Dates are Gregorian. Selected activity periods are not complete lifespans. The m
 
 | File | Purpose |
 | --- | --- |
-| `index.html` | Self-contained interactive atlas, including card images and map data |
+| `index.html` | Interactive atlas, including embedded card images and map data |
 | `en.html` | Complete English atlas with left-to-right layout |
 | `research.html` | Standalone research text for reading and printing |
 | `research-en.html` | Complete English research report |
@@ -30,16 +30,25 @@ Dates are Gregorian. Selected activity periods are not complete lifespans. The m
 | `preview.jpg` | Preview of the atlas |
 | `.nojekyll` | Serve the static site directly through GitHub Pages |
 
-No installation or build is required. Open `index.html` in a modern browser, or use the published GitHub Pages site. The atlas content and visualizations are self-contained; external source links require an internet connection.
+No installation or build is required. Open `index.html` in a modern browser, or use the published GitHub Pages site. The atlas content and visualizations are embedded; keep `global-search.js` alongside the HTML files for site-wide search; external source links require an internet connection.
 
 ## Sources and attribution
 
 Historical references and source-critical notes are linked within each profile and in the atlas bibliography. Research includes academic publications, Encyclopaedia Iranica, museum collections, archives, and contemporary accounts.
 
-Card titles and images come from [Rally the Troops' Pax Pamir card gallery](https://rally-the-troops.com/pax-pamir/info/cards.html). Pax Pamir and its card artwork belong to their respective rights holders. This is an independent historical fan project and is not an official Wehrlegig Games publication. Publishing this repository does not grant additional rights to reuse third-party artwork commercially.
+Game design, graphic design and research: **Cole Wehrle**; publisher: **Wehrlegig Games LLC**. The [publisher’s Resources page](https://wehrlegig.com/pages/resources) links the [official rulebook](https://www.dropbox.com/scl/fi/rxcttget9flnuuv12lhlf/PaxPamir-Rules.pdf?dl=0&rlkey=kx19mzkv0x9x8p7ugg883g3hh), whose Third Printing (2021), p. 20, identifies the game licence as **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
+
+The atlas embeds 116 numbered card faces and their titles from [Rally the Troops’ card gallery](https://rally-the-troops.com/pax-pamir/info/cards.html). Images are embedded and scaled for display; research, translations and interactive links are added. `preview.jpg` includes cards in an atlas screenshot. Reused game material and adaptations of it are supplied under CC BY-NC-SA 4.0: attribution, noncommercial use, indication of changes, and ShareAlike for adaptations. This is an unofficial fan project, without implied endorsement. This notice does not assert a blanket licence over independent research, site code, historical artwork in the public domain, or external sources. Full asset scope and links appear in the credits on all four pages.
+
+## Site-wide search
+
+The search above the atlas tabs covers all 116 cards (including people and thematic places), 39 dated events, 73 map locations and six historical chapters. It searches research text, aliases, dates and source titles, with all query words required. Results link to profiles, events, map locations or chapters. Persian/Arabic letter variants and digits are normalized. Each edition searches its own research language and stored alternate names. The research reports link back to the atlas search. No network request or search service is required; `global-search.js` uses the embedded research data.
 
 Map boundary data: [Natural Earth](https://www.naturalearthdata.com/about/terms-of-use/), public domain.
 
 Research edition: 27 October 2026.
 
 English edition and language navigation added: 28 October 2026.
+
+
+Browser regression checks: install the development dependency with `npm install`, install Microsoft Edge (or change the Playwright channel), then run `npm test`. Checks cover both language editions, all result types, reload links, digit normalization, no matches, clearing, hostile input, mobile width, and runtime errors.
