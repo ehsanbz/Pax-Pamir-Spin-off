@@ -9,7 +9,7 @@
       "note": "Alexander Burnes's colleague and interpreter; author and intelligence gatherer",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_1.jpg",
+      "source": "assets/cards/card_1.jpg",
       "dates": "1812–1877",
       "active": [
         1831,
@@ -44,7 +44,7 @@
         },
         {
           "title": "Card 1 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_1.jpg"
+          "url": "assets/cards/card_1.jpg"
         }
       ],
       "relations": [
@@ -82,7 +82,7 @@
       "note": "Sayyid Mohammad Shah; a supporter of Shah Shujah and Britain",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_2.jpg",
+      "source": "assets/cards/card_2.jpg",
       "dates": "Birth date unknown; died 1864",
       "active": [
         1839,
@@ -109,7 +109,7 @@
         },
         {
           "title": "Card 2 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_2.jpg"
+          "url": "assets/cards/card_2.jpg"
         }
       ],
       "relations": [
@@ -141,7 +141,7 @@
       "note": "Dost Mohammad's son; a leader of resistance in the First Afghan War",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_3.jpg",
+      "source": "assets/cards/card_3.jpg",
       "dates": "Accounts of his lifespan differ; approximately the 1810s to the mid-1840s",
       "active": [
         1837,
@@ -175,7 +175,7 @@
         },
         {
           "title": "Card 3 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_3.jpg"
+          "url": "assets/cards/card_3.jpg"
         }
       ],
       "relations": [
@@ -218,7 +218,7 @@
       "note": "British envoy to Bukhara; connected to Arthur Conolly's mission",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_4.jpg",
+      "source": "assets/cards/card_4.jpg",
       "dates": "1806–1842",
       "active": [
         1838,
@@ -243,7 +243,7 @@
         },
         {
           "title": "Card 4 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_4.jpg"
+          "url": "assets/cards/card_4.jpg"
         }
       ],
       "relations": [
@@ -285,7 +285,7 @@
       "note": "Durrani king; Dost Mohammad's rival and a central figure in British intervention",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_5.jpg",
+      "source": "assets/cards/card_5.jpg",
       "dates": "Died 5 April 1842; first reign 1803/1804–1809",
       "active": [
         1803,
@@ -316,7 +316,7 @@
         },
         {
           "title": "Card 5 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_5.jpg"
+          "url": "assets/cards/card_5.jpg"
         }
       ],
       "relations": [
@@ -366,7 +366,7 @@
       "note": "An Afghan leader of the Kabul uprising",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_6.jpg",
+      "source": "assets/cards/card_6.jpg",
       "dates": "His life dates have not been established with confidence",
       "active": [
         1841,
@@ -388,7 +388,7 @@
         },
         {
           "title": "Card 6 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_6.jpg"
+          "url": "assets/cards/card_6.jpg"
         }
       ],
       "relations": [
@@ -419,7 +419,7 @@
       "note": "Barakzai emir of Kabul; Akbar Khan's father and Shah Shujah's rival",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_7.jpg",
+      "source": "assets/cards/card_7.jpg",
       "dates": "December 1792–9 June 1863",
       "active": [
         1826,
@@ -447,7 +447,7 @@
         },
         {
           "title": "Card 7 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_7.jpg"
+          "url": "assets/cards/card_7.jpg"
         }
       ],
       "relations": [
@@ -504,7 +504,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_8.jpg",
+      "source": "assets/cards/card_8.jpg",
       "bio": [
         "Kabul's bazaar was a meeting point for goods, credit, and news. Trade links with Peshawar and India through the Khyber, and with the mountains and Central Asia, sustained this landlocked capital. Merchants and caravan travellers carried information as well as merchandise.",
         "The bazaar is more than a decorative backdrop in this account: its destruction by British forces in 1842 shows how political punishment could target urban livelihoods. That historical event appears on the timeline separately from the enduring institution of the bazaar itself."
@@ -520,7 +520,7 @@
         },
         {
           "title": "Card 8 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_8.jpg"
+          "url": "assets/cards/card_8.jpg"
         }
       ],
       "places": [
@@ -550,7 +550,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_9.jpg",
+      "source": "assets/cards/card_9.jpg",
       "bio": [
         "The handicrafts card refers to workshops, skills, and urban production, rather than a single factory or guild. Weaving, metalworking, and the manufacture of everyday goods formed part of an economy sustained by markets and caravan routes.",
         "A historical reading must distinguish local production from imported goods: the presence of Indian or European textiles and manufactures in Kabul does not mean they were all made in Afghanistan. This entry explains the card's economic background without claiming specific production figures for the 1830s."
@@ -566,7 +566,7 @@
         },
         {
           "title": "Card 9 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_9.jpg"
+          "url": "assets/cards/card_9.jpg"
         }
       ],
       "places": [
@@ -595,7 +595,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_10.jpg",
+      "source": "assets/cards/card_10.jpg",
       "bio": [
         "The card's title, Balkh Arsenic Mine, is a specific reference to a mineral resource. The card itself also mentions the substance's historical uses in pigments and medicine; this should not be read as medical advice or evidence that it was safe.",
         "Balkh stood where routes from Khorasan and Central Asia met the Hindu Kush passes. However, insufficient independent evidence was found to identify the precise mine or establish how it was worked during the game's period. The map therefore marks Balkh only; the mine's purported story has not been rewritten as established fact."
@@ -611,7 +611,7 @@
         },
         {
           "title": "Card 10 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_10.jpg"
+          "url": "assets/cards/card_10.jpg"
         }
       ],
       "places": [
@@ -639,7 +639,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_11.jpg",
+      "source": "assets/cards/card_11.jpg",
       "bio": [
         "The lapis lazuli on this card relates to the longstanding mines of Badakhshan; a documented specimen in Oxford's Corsi Collection comes from the Kokcha valley. The stone's reputation across regions sometimes led people to attribute its origin incorrectly to Persia or China.",
         "This entry shows the relationship between mountain resources and distant markets. The Kabul label on the card does not locate the mine; the map identifies Badakhshan and the Kokcha valley. No invented nineteenth-century starting date is assigned to mining with a history spanning millennia."
@@ -651,7 +651,7 @@
         },
         {
           "title": "Card 11 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_11.jpg"
+          "url": "assets/cards/card_11.jpg"
         }
       ],
       "places": [
@@ -679,7 +679,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_12.jpg",
+      "source": "assets/cards/card_12.jpg",
       "bio": [
         "Ghazni is a historic city on the route between Kabul and Kandahar, and its significance extends beyond its fortress. The city depended on movement, provisioning, and control of a road that invading armies also had to take into account.",
         "In the summer of 1839, the Army of the Indus's advance towards Kabul depended on capturing Ghazni. This card represents the city; card 17 concerns its fortifications. Distinguishing them is essential to separating the story of urban life from the story of battle."
@@ -691,7 +691,7 @@
         },
         {
           "title": "Card 12 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_12.jpg"
+          "url": "assets/cards/card_12.jpg"
         }
       ],
       "places": [
@@ -725,7 +725,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_13.jpg",
+      "source": "assets/cards/card_13.jpg",
       "bio": [
         "The Ghilzais comprised a large grouping of Pashtun lineages and communities. Some practised seasonal migration between Afghanistan's highlands and the plains near Sindh. Transporting goods and herding could be intertwined in these movements.",
         "The card does not make all Ghilzais nomads. During the war of 1839–1842, some Ghilzai groups played important roles in resistance and attacks on lines of communication; tribal affiliation should not, however, be taken to imply permanent political loyalty."
@@ -737,7 +737,7 @@
         },
         {
           "title": "Card 13 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_13.jpg"
+          "url": "assets/cards/card_13.jpg"
         }
       ],
       "places": [
@@ -769,7 +769,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_14.jpg",
+      "source": "assets/cards/card_14.jpg",
       "bio": [
         "Moneylenders and money changers made it possible to transfer funds, extend credit, and settle obligations in an economy where transporting cash over long distances was difficult. Financial power here formed part of a network of social relationships.",
         "This card does not name a particular firm. It should not be taken to mean that modern corporate banking existed in Kandahar or Kabul in the 1830s. The Bank entry, card 46, clarifies the same distinction between traditional credit and the modern bank."
@@ -785,7 +785,7 @@
         },
         {
           "title": "Card 14 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_14.jpg"
+          "url": "assets/cards/card_14.jpg"
         }
       ],
       "places": [
@@ -814,7 +814,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_15.jpg",
+      "source": "assets/cards/card_15.jpg",
       "bio": [
         "The Durrani Royal Guard refers to the force protecting the shah and his court. In succession struggles, safeguarding the monarch, his residence, and access to the court mattered politically; this dependence was not the same as a unified national army in the modern sense.",
         "The card's title is insufficient to identify a regiment with a precise roster of soldiers and commanders. This entry therefore explains the context of Durrani kingship and Shah Shuja without inventing a foundation date or a separate battle for the guard itself."
@@ -830,7 +830,7 @@
         },
         {
           "title": "Card 15 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_15.jpg"
+          "url": "assets/cards/card_15.jpg"
         }
       ],
       "places": [
@@ -859,7 +859,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_16.jpg",
+      "source": "assets/cards/card_16.jpg",
       "bio": [
         "The Bala Hissar was Kabul's fortress and royal residence, a place where control of the city and the display of authority came together. Its structure changed across periods; it was not a building constructed in a single phase.",
         "During the First Afghan War, the decision to station British troops outside this fortress contributed to their vulnerability. The Bala Hissar must be distinguished from the military cantonment outside the city. The image of the royal hall on the Dominance Check cards likewise evokes this relationship between architecture and power."
@@ -871,7 +871,7 @@
         },
         {
           "title": "Card 16 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_16.jpg"
+          "url": "assets/cards/card_16.jpg"
         }
       ],
       "places": [
@@ -905,7 +905,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_17.jpg",
+      "source": "assets/cards/card_17.jpg",
       "bio": [
         "Ghazni's citadel was the defensive position blocking the invasion route to Kabul. On 23 July 1839, the force commanded by John Keane captured it by blowing open a gate and storming the fortress.",
         "Information gathered by Mohan Lal helped identify a way into the defences. This battle is therefore more than a story of firepower: local intelligence, command decisions, and urban fortifications converged in its outcome."
@@ -917,7 +917,7 @@
         },
         {
           "title": "Card 17 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_17.jpg"
+          "url": "assets/cards/card_17.jpg"
         }
       ],
       "places": [
@@ -951,7 +951,7 @@
       "note": "A fictional character; must be kept separate from historical biography",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_18.jpg",
+      "source": "assets/cards/card_18.jpg",
       "dates": "Literary character; first appeared in 1857, reworked in the novel Flashman in 1969",
       "active": null,
       "bio": [
@@ -970,7 +970,7 @@
         },
         {
           "title": "Card 18 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_18.jpg"
+          "url": "assets/cards/card_18.jpg"
         }
       ],
       "relations": [],
@@ -992,7 +992,7 @@
       "note": "British officer; associated with the defence of Herat during the siege",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_19.jpg",
+      "source": "assets/cards/card_19.jpg",
       "dates": "12 August 1811–15 November 1843",
       "active": [
         1837,
@@ -1019,7 +1019,7 @@
         },
         {
           "title": "Card 19 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_19.jpg"
+          "url": "assets/cards/card_19.jpg"
         }
       ],
       "relations": [
@@ -1069,7 +1069,7 @@
       "note": "Officer, diplomat, and scholar; active in Iran and Afghanistan",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_20.jpg",
+      "source": "assets/cards/card_20.jpg",
       "dates": "1810–1895",
       "active": [
         1833,
@@ -1090,7 +1090,7 @@
         },
         {
           "title": "Card 20 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_20.jpg"
+          "url": "assets/cards/card_20.jpg"
         }
       ],
       "places": [
@@ -1128,7 +1128,7 @@
       "note": "British envoy and traveller; Mohan Lal's colleague and a negotiating partner of Dost Mohammad",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_21.jpg",
+      "source": "assets/cards/card_21.jpg",
       "dates": "1805–2 November 1841",
       "active": [
         1831,
@@ -1155,7 +1155,7 @@
         },
         {
           "title": "Card 21 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_21.jpg"
+          "url": "assets/cards/card_21.jpg"
         }
       ],
       "relations": [
@@ -1205,7 +1205,7 @@
       "note": "Explorer of Central Asia; his main activities came after the First Afghan War",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_22.jpg",
+      "source": "assets/cards/card_22.jpg",
       "dates": "1839–1870; principal journeys 1868–1870",
       "active": [
         1868,
@@ -1230,7 +1230,7 @@
         },
         {
           "title": "Card 22 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_22.jpg"
+          "url": "assets/cards/card_22.jpg"
         }
       ],
       "relations": [
@@ -1271,7 +1271,7 @@
       "note": "British officer and diplomat; associated with the exploration of routes in Baluchistan and Sind",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_23.jpg",
+      "source": "assets/cards/card_23.jpg",
       "dates": "1789–1856",
       "active": [
         1810,
@@ -1288,7 +1288,7 @@
         },
         {
           "title": "Card 23 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_23.jpg"
+          "url": "assets/cards/card_23.jpg"
         }
       ],
       "places": [
@@ -1332,7 +1332,7 @@
       "note": "Maharaja of the Sikh Empire; the central power in Punjab",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_24.jpg",
+      "source": "assets/cards/card_24.jpg",
       "dates": "1780–1839",
       "active": [
         1799,
@@ -1353,7 +1353,7 @@
         },
         {
           "title": "Card 24 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_24.jpg"
+          "url": "assets/cards/card_24.jpg"
         }
       ],
       "places": [
@@ -1409,7 +1409,7 @@
       "note": "American adventurer; connected to Afghan and Sikh courts",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_25.jpg",
+      "source": "assets/cards/card_25.jpg",
       "dates": "1799–1871",
       "active": [
         1823,
@@ -1432,7 +1432,7 @@
         },
         {
           "title": "Card 25 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_25.jpg"
+          "url": "assets/cards/card_25.jpg"
         }
       ],
       "relations": [
@@ -1476,7 +1476,7 @@
       "note": "Italian officer in the service of the Sikh government; associated with Peshawar",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_26.jpg",
+      "source": "assets/cards/card_26.jpg",
       "dates": "1791–1850",
       "active": [
         1820,
@@ -1505,7 +1505,7 @@
         },
         {
           "title": "Card 26 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_26.jpg"
+          "url": "assets/cards/card_26.jpg"
         }
       ],
       "places": [
@@ -1541,7 +1541,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_27.jpg",
+      "source": "assets/cards/card_27.jpg",
       "bio": [
         "Maqpon is not the name of an individual; it denotes the ruling dynasty based around Skardu in Baltistan. Karl Jettmar's research distinguishes Skardu's Maqpons from the neighbouring dynasties of Shigar and Khaplu. The card belongs geographically to the upper Indus highlands; its placement in the Punjab group does not mean the family ruled Lahore directly.",
         "During the period relevant to the game, Ahmad Shah ruled Baltistan. He corresponded with Moorcroft, and his territory was conquered in 1840 by Zorawar Singh, the Dogra commander from Jammu. Rivalry and military conquest thus provide the card's clear connection with Zorawar. Accounts of the dynasty's origins and foundation date are neither uniform nor certain, and the title alone cannot establish a founder or an exact year."
@@ -1557,7 +1557,7 @@
         },
         {
           "title": "Card 27 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_27.jpg"
+          "url": "assets/cards/card_27.jpg"
         }
       ],
       "places": [
@@ -1604,7 +1604,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_28.jpg",
+      "source": "assets/cards/card_28.jpg",
       "bio": [
         "Anarkali is an urban bazaar in Lahore. This card reminds us that Ranjit Singh's capital was more than a command centre: trade, crafts, and courtly consumption also shaped the city.",
         "The bazaar's name does not refer to a treaty or a one-day event. Its connection with the Sikh court is geographical and economic; the card provides no evidence that Ranjit Singh personally owned every shop or that every merchant played a direct role in foreign policy."
@@ -1620,7 +1620,7 @@
         },
         {
           "title": "Card 28 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_28.jpg"
+          "url": "assets/cards/card_28.jpg"
         }
       ],
       "places": [
@@ -1649,7 +1649,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_29.jpg",
+      "source": "assets/cards/card_29.jpg",
       "bio": [
         "The Khyber is a pass between the Peshawar region and eastern Afghanistan. Its importance was both commercial and military: the route taken by goods often overlapped with the route taken by armies.",
         "It should not be confused with the Bolan: the main column of the Army of the Indus advanced along the southern Bolan route in 1839, while Claude Wade operated on the Khyber axis. The pass itself has a long history and no foundation date; the military movements associated with it appear as separate dated events."
@@ -1665,7 +1665,7 @@
         },
         {
           "title": "Card 29 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_29.jpg"
+          "url": "assets/cards/card_29.jpg"
         }
       ],
       "places": [
@@ -1697,7 +1697,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_30.jpg",
+      "source": "assets/cards/card_30.jpg",
       "bio": [
         "The Sikh Merchants in Lahore card represents an economic group. Its title should not be read as implying that Sikhs controlled all Lahore's trade or that the city's commercial community had a uniform identity.",
         "The connections between court, market, and the routes from India to Afghanistan explain how commercial activity could cross political boundaries. This dashboard describes the group's relationship with Ranjit Singh as a context of government and economy, rather than claiming a documented personal relationship with every trader."
@@ -1713,7 +1713,7 @@
         },
         {
           "title": "Card 30 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_30.jpg"
+          "url": "assets/cards/card_30.jpg"
         }
       ],
       "places": [
@@ -1743,7 +1743,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_31.jpg",
+      "source": "assets/cards/card_31.jpg",
       "bio": [
         "Company Weapons refers to the infrastructure of production and supply behind imperial warfare. The India Pattern musket originated in East India Company designs and was also adopted by the British Army in the late eighteenth century.",
         "Mass manufacture and the ability to supply arms contributed to military power. Yet the range and use of the locally made jezail show why technological differences should not be reduced to absolute European superiority. Card 53 presents the other side of this history of weapons."
@@ -1755,7 +1755,7 @@
         },
         {
           "title": "Card 31 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_31.jpg"
+          "url": "assets/cards/card_31.jpg"
         }
       ],
       "places": [
@@ -1785,7 +1785,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_32.jpg",
+      "source": "assets/cards/card_32.jpg",
       "bio": [
         "The Army of the Indus was the British–Indian expeditionary force sent to depose Dost Mohammad and restore Shah Shuja in 1839. Indian troops and resources participated alongside British units.",
         "Crossing the Bolan, entering Kandahar, and capturing Ghazni were key stages of the expedition. Its name should not be mistaken for an army composed solely of British subjects; the East India Company and Indian soldiers are essential to understanding the episode politically."
@@ -1801,7 +1801,7 @@
         },
         {
           "title": "Card 32 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_32.jpg"
+          "url": "assets/cards/card_32.jpg"
         }
       ],
       "places": [
@@ -1842,7 +1842,7 @@
       "note": "Dogra commander; associated with the campaigns in Ladakh, Baltistan, and Tibet",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_33.jpg",
+      "source": "assets/cards/card_33.jpg",
       "dates": "Circa 1786–1841",
       "active": [
         1823,
@@ -1863,7 +1863,7 @@
         },
         {
           "title": "Card 33 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_33.jpg"
+          "url": "assets/cards/card_33.jpg"
         }
       ],
       "places": [
@@ -1909,7 +1909,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_34.jpg",
+      "source": "assets/cards/card_34.jpg",
       "bio": [
         "Sindhi Warriors is a collective designation; it cannot establish a single military unit or commander. Sindh lay on the communications and supply routes linking India and Afghanistan, and itself came under pressure from the Company's expanding power.",
         "The conquest of Sindh in 1843 is an important historical context for this card, but it does not prove that this particular depicted group participated in a specific battle. Neither the image nor the title supplies biographies for the unidentified people shown."
@@ -1925,7 +1925,7 @@
         },
         {
           "title": "Card 34 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_34.jpg"
+          "url": "assets/cards/card_34.jpg"
         }
       ],
       "places": [
@@ -1956,7 +1956,7 @@
       "note": "Sikh commander; associated with the Peshawar frontier and the battle of Jamrud",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_35.jpg",
+      "source": "assets/cards/card_35.jpg",
       "dates": "1791–1837",
       "active": [
         1820,
@@ -1981,7 +1981,7 @@
         },
         {
           "title": "Card 35 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_35.jpg"
+          "url": "assets/cards/card_35.jpg"
         }
       ],
       "places": [
@@ -2029,7 +2029,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_36.jpg",
+      "source": "assets/cards/card_36.jpg",
       "bio": [
         "Bengal Native Infantry refers to regiments of Indian soldiers in the East India Company's Bengal Army. 'Native' is a colonial administrative designation, not a neutral description of people's status. Officers and soldiers served within an unequal structure.",
         "The Afghan expedition cannot be understood without India's manpower and resources. Placing this card alongside British Regulars makes clear the distinction between the British regular army and the Company's army: the institutions worked together but were not a single organisation."
@@ -2041,7 +2041,7 @@
         },
         {
           "title": "Card 36 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_36.jpg"
+          "url": "assets/cards/card_36.jpg"
         }
       ],
       "places": [
@@ -2073,7 +2073,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_37.jpg",
+      "source": "assets/cards/card_37.jpg",
       "bio": [
         "The name Seaforth in the history of Scottish regiments relates to units with eighteenth-century roots and a later formal amalgamation in 1881. A regiment's later name should not be extended to every earlier period without explanation.",
         "The card itself mentions a deployment in 1842. To avoid conflating the later regimental name with the unit of that year, this entry focuses on continuity in regimental tradition and the problem of naming. Presence in a particular year does not, by itself, establish a unit's number or precise role in every battle."
@@ -2089,7 +2089,7 @@
         },
         {
           "title": "Card 37 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_37.jpg"
+          "url": "assets/cards/card_37.jpg"
         }
       ],
       "places": [
@@ -2117,7 +2117,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_38.jpg",
+      "source": "assets/cards/card_38.jpg",
       "bio": [
         "In the early nineteenth-century context, Akali refers to Sikh religious warriors associated with the Nihang tradition; this card does not name an individual or a modern political party. Phula Singh Akali's group participated in Ranjit Singh's campaigns but was not entirely subordinate to the maharaja. Religious standing and military strength enabled its leaders to take positions against the court as well.",
         "Punjabi University's encyclopaedia records Phula Singh's forces in the campaigns of Multan, Peshawar, and Kashmir. He was killed at the Battle of Naushera on 14 March 1823. The card therefore refers to a military and religious collective: its image or title cannot, without justification, be reduced to one warrior's life. The Akalis cooperated with Lahore's court while retaining relative independence; equating them with the entire Sikh army is also inaccurate."
@@ -2133,7 +2133,7 @@
         },
         {
           "title": "Card 38 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_38.jpg"
+          "url": "assets/cards/card_38.jpg"
         }
       ],
       "places": [
@@ -2182,7 +2182,7 @@
       "note": "British explorer and veterinarian; associated with Himalayan and Central Asian journeys",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_39.jpg",
+      "source": "assets/cards/card_39.jpg",
       "dates": "Circa 1765/1767–August 1825",
       "active": [
         1819,
@@ -2210,7 +2210,7 @@
         },
         {
           "title": "Card 39 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_39.jpg"
+          "url": "assets/cards/card_39.jpg"
         }
       ],
       "relations": [],
@@ -2236,7 +2236,7 @@
       "note": "British political representative in Afghanistan; connected to Shah Shujah and Akbar Khan",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_40.jpg",
+      "source": "assets/cards/card_40.jpg",
       "dates": "1793–23 December 1841",
       "active": [
         1838,
@@ -2262,7 +2262,7 @@
         },
         {
           "title": "Card 40 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_40.jpg"
+          "url": "assets/cards/card_40.jpg"
         }
       ],
       "relations": [
@@ -2305,7 +2305,7 @@
       "note": "Explorer and archaeologist; originally named James Lewis",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_41.jpg",
+      "source": "assets/cards/card_41.jpg",
       "dates": "16 February 1800–1853",
       "active": [
         1827,
@@ -2328,7 +2328,7 @@
         },
         {
           "title": "Card 41 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_41.jpg"
+          "url": "assets/cards/card_41.jpg"
         }
       ],
       "relations": [
@@ -2360,7 +2360,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_42.jpg",
+      "source": "assets/cards/card_42.jpg",
       "bio": [
         "The Barakzai sardars refers to a network of relatives and powerful figures of which Dost Mohammad was a part. The printed title Sadars is a simplified or unusual rendering of Sardars and should not be read as a separate dynasty.",
         "The rise of the Barakzais did not mean unified and uncontested rule over all Afghanistan. Kabul and Kandahar could fall under the influence of different family members, and kinship did not prevent competition for resources and territory."
@@ -2372,7 +2372,7 @@
         },
         {
           "title": "Card 42 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_42.jpg"
+          "url": "assets/cards/card_42.jpg"
         }
       ],
       "places": [
@@ -2404,7 +2404,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_43.jpg",
+      "source": "assets/cards/card_43.jpg",
       "bio": [
         "Ghilzai nobles refers to chiefs and elites associated with this tribal grouping. This card should be distinguished from Ghilzai Nomads, card 13: shared ancestry did not entail a shared occupation, level of wealth, or political position.",
         "Some Ghilzai chiefs and groups clashed with foreign interventions and Durrani governments. 'Nobility' in this title does not translate into a European legal estate with precisely defined privileges; understanding any particular sardar requires attention to his local position and the timing of his alliances."
@@ -2416,7 +2416,7 @@
         },
         {
           "title": "Card 43 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_43.jpg"
+          "url": "assets/cards/card_43.jpg"
         }
       ],
       "places": [
@@ -2447,7 +2447,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_44.jpg",
+      "source": "assets/cards/card_44.jpg",
       "bio": [
         "Baluchi chiefs operated among local power centres and the Khanate of Kalat, with connections to Persia, Kandahar, and Sindh. Balochistan's political structure cannot be reduced to a single command governing all Baloch people.",
         "The passage of armies and demands for secure roads or provisions changed the relationship between outside powers and local chiefs. The card's placement in Kandahar is a game classification; the map marks Kalat and the Bolan corridor to provide geographical context."
@@ -2459,7 +2459,7 @@
         },
         {
           "title": "Card 44 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_44.jpg"
+          "url": "assets/cards/card_44.jpg"
         }
       ],
       "places": [
@@ -2491,7 +2491,7 @@
       "note": "Afghan chief; associated with shifts of support between the Barakzais and Shah Shujah",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_45.jpg",
+      "source": "assets/cards/card_45.jpg",
       "dates": "Life dates uncertain",
       "active": [
         1828,
@@ -2517,7 +2517,7 @@
         },
         {
           "title": "Card 45 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_45.jpg"
+          "url": "assets/cards/card_45.jpg"
         }
       ],
       "relations": [
@@ -2554,7 +2554,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_46.jpg",
+      "source": "assets/cards/card_46.jpg",
       "bio": [
         "The title Bank requires historical caution. Credit, deposits, remittances, and loans existed before modern banks and were handled by money changers and merchants.",
         "For example, the first modern banks in Persia appeared in the late 1880s; that date is not evidence about Kandahar in the 1830s. This dashboard treats the card as a reference to finance and credit without attributing the foundation of a specific modern bank in Kandahar to it."
@@ -2566,7 +2566,7 @@
         },
         {
           "title": "Card 46 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_46.jpg"
+          "url": "assets/cards/card_46.jpg"
         }
       ],
       "places": [
@@ -2594,7 +2594,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_47.jpg",
+      "source": "assets/cards/card_47.jpg",
       "bio": [
         "The Bolan was the southern route from the plains of Sindh and Balochistan towards Quetta and Kandahar. The Army of the Indus advanced into Afghanistan by this route in 1839; difficult terrain made the provision of food and pack animals a military problem.",
         "This pass is distinct from the Khyber in eastern Afghanistan. The communications lines on the map are schematic and do not reconstruct the exact route of every column or its daily stopping places."
@@ -2610,7 +2610,7 @@
         },
         {
           "title": "Card 47 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_47.jpg"
+          "url": "assets/cards/card_47.jpg"
         }
       ],
       "places": [
@@ -2648,7 +2648,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_48.jpg",
+      "source": "assets/cards/card_48.jpg",
       "bio": [
         "Fruit markets refer to the relationship between orchards and the city. In the Kandahar oasis, water and irrigated land made horticultural production possible; the market linked that production with urban or caravan consumption.",
         "This card is not a dated event or a particular trading monopoly. Including it in the account brings people's lives and livelihoods into view, so that the region's history is not confined to kings and wars."
@@ -2660,7 +2660,7 @@
         },
         {
           "title": "Card 48 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_48.jpg"
+          "url": "assets/cards/card_48.jpg"
         }
       ],
       "places": [
@@ -2690,7 +2690,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_49.jpg",
+      "source": "assets/cards/card_49.jpg",
       "bio": [
         "Kandahar's markets connected India, Persia, and the cities of Afghanistan. The city's importance arose from its geographical position and agricultural surroundings as well as from the presence of ruling families.",
         "The plural title refers to a range of activities. A change of government or the passage of an army could disrupt safe travel and the flow of goods; this is an analytical relationship, and the entry does not claim figures for losses during the game's decade."
@@ -2706,7 +2706,7 @@
         },
         {
           "title": "Card 49 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_49.jpg"
+          "url": "assets/cards/card_49.jpg"
         }
       ],
       "places": [
@@ -2736,7 +2736,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_50.jpg",
+      "source": "assets/cards/card_50.jpg",
       "bio": [
         "British regular troops cooperated with East India Company units in regional operations. The organisational distinction between these forces and Indian infantry matters in identifying who actually fought the wars.",
         "Uniform clothing and regular organisation did not guarantee operational success. The consequences of the Afghan war must be explained through environment, logistics, leadership, and the politics of occupation; the card's title does not identify a particular regiment."
@@ -2748,7 +2748,7 @@
         },
         {
           "title": "Card 50 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_50.jpg"
+          "url": "assets/cards/card_50.jpg"
         }
       ],
       "places": [
@@ -2780,7 +2780,7 @@
       "note": "Commander of the Army of the Indus in the 1839 campaign",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_51.jpg",
+      "source": "assets/cards/card_51.jpg",
       "dates": "1781–26 August 1844",
       "active": [
         1838,
@@ -2807,7 +2807,7 @@
         },
         {
           "title": "Card 51 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_51.jpg"
+          "url": "assets/cards/card_51.jpg"
         }
       ],
       "relations": [
@@ -2845,7 +2845,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_52.jpg",
+      "source": "assets/cards/card_52.jpg",
       "bio": [
         "Pashtun Mercenary is not a named individual; it designates a form of military service. In an environment where resources and patronage shifted among chiefs, armed service could rest on a contract, pay, local ties, or a personal commitment.",
         "This title cannot support a judgment about the loyalty or character of all Pashtuns. The account offered here is a social interpretation of the card's subject; no biography, specific tribal identity, or particular battle has been invented for this unnamed warrior."
@@ -2861,7 +2861,7 @@
         },
         {
           "title": "Card 52 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_52.jpg"
+          "url": "assets/cards/card_52.jpg"
         }
       ],
       "places": [
@@ -2889,7 +2889,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_53.jpg",
+      "source": "assets/cards/card_53.jpg",
       "bio": [
         "The jezail was a long gun widely used by Afghan fighters. A National Army Museum example dating to around 1800 has an English Company lock in a stock probably made in Afghanistan: local and imported technologies could come together in one weapon.",
         "Greater range and slower loading are among the characteristics noted for this weapon. The role of its marksmen must be related to rough terrain and the kind of fighting involved, rather than a simplistic contrast between modern and primitive weapons."
@@ -2901,7 +2901,7 @@
         },
         {
           "title": "Card 53 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_53.jpg"
+          "url": "assets/cards/card_53.jpg"
         }
       ],
       "places": [
@@ -2933,7 +2933,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_54.jpg",
+      "source": "assets/cards/card_54.jpg",
       "bio": [
         "Herati Bandits is a broad designation framed from the standpoint of political order. Banditry could threaten travel and trade, but labelling a group in this way does not replace an examination of local conditions and the sources telling the story.",
         "This research has no documentation identifying the people depicted or attributing specific operations to them. The card therefore belongs among undated phenomena rather than being presented as a defined group with a commander and a fixed chronology."
@@ -2945,7 +2945,7 @@
         },
         {
           "title": "Card 54 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_54.jpg"
+          "url": "assets/cards/card_54.jpg"
         }
       ],
       "places": [
@@ -2973,7 +2973,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_55.jpg",
+      "source": "assets/cards/card_55.jpg",
       "bio": [
         "Hazara chiefs refers to a diverse range of local authorities in Hazarajat and neighbouring areas. Historical and anthropological sources describe multiple tribal and territorial structures; there was no single leader of all Hazaras.",
         "Many European reports are later, and the date of their observations must be distinguished from the game's period. In particular, the atrocities of the late nineteenth century must not be placed in the 1830s without explanation. The map point at Bamiyan is only a regional guide."
@@ -2985,7 +2985,7 @@
         },
         {
           "title": "Card 55 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_55.jpg"
+          "url": "assets/cards/card_55.jpg"
         }
       ],
       "places": [
@@ -3013,7 +3013,7 @@
       "note": "Minister and later ruler of Herat; connected to Kamran Mirza and Qajar Iran",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_56.jpg",
+      "source": "assets/cards/card_56.jpg",
       "dates": "Died 1851",
       "active": [
         1829,
@@ -3039,7 +3039,7 @@
         },
         {
           "title": "Card 56 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_56.jpg"
+          "url": "assets/cards/card_56.jpg"
         }
       ],
       "relations": [
@@ -3076,7 +3076,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_57.jpg",
+      "source": "assets/cards/card_57.jpg",
       "bio": [
         "Exiled Durrani Nobility represents the consequences of succession struggles and shifts in power. The defeat of a claimant to the throne could also drive his dependants away from the seat of authority; exile did not end their political networks.",
         "Shah Shuja is a well-known example of a deposed ruler who returned with outside support. This entry does not identify all the nobles depicted as his companions; the card summarises a social group rather than supplying a documented roster of an exiled court."
@@ -3092,7 +3092,7 @@
         },
         {
           "title": "Card 57 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_57.jpg"
+          "url": "assets/cards/card_57.jpg"
         }
       ],
       "places": [
@@ -3123,7 +3123,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_58.jpg",
+      "source": "assets/cards/card_58.jpg",
       "bio": [
         "The Ishaqzai are one of the Durrani groups. The card discusses shifts in the political standing of their chiefs and later pressures on them; these two chronological layers must be kept distinct.",
         "Only the identification of the card's collective subject is accepted here. Seeing this card does not move detailed claims about late nineteenth-century forced settlement policies into the 1830s. No person in the image has been identified as a particular chief."
@@ -3139,7 +3139,7 @@
         },
         {
           "title": "Card 58 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_58.jpg"
+          "url": "assets/cards/card_58.jpg"
         }
       ],
       "places": [
@@ -3167,7 +3167,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_59.jpg",
+      "source": "assets/cards/card_59.jpg",
       "bio": [
         "Tajik Warband is not a unit with an established name, foundation date, and chain of command. The card's title points to part of the diversity of local forces; it should not be taken to imply a fixed ethnic army throughout the region.",
         "This entry preserves the anonymity of the people and the broad nature of the title. The point at Herat explains only the card's place in the game's world; it is insufficient evidence for the origins of everyone depicted."
@@ -3183,7 +3183,7 @@
         },
         {
           "title": "Card 59 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_59.jpg"
+          "url": "assets/cards/card_59.jpg"
         }
       ],
       "places": [
@@ -3209,7 +3209,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_60.jpg",
+      "source": "assets/cards/card_60.jpg",
       "bio": [
         "Nomadic Warlord is a social and political type in the card's title, not the name of a historical person. Such a figure's power could depend on armed followers, control of a route, or negotiation with established authorities.",
         "This account is an analytical reading of the card's theme. No name, ethnicity, fixed territory, or birth date has been invented for him; nor is nomadism in itself equivalent to warlordism or banditry."
@@ -3221,7 +3221,7 @@
         },
         {
           "title": "Card 60 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_60.jpg"
+          "url": "assets/cards/card_60.jpg"
         }
       ],
       "places": [
@@ -3249,7 +3249,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_61.jpg",
+      "source": "assets/cards/card_61.jpg",
       "bio": [
         "Karakul refers to sheep and commercially valuable lambskins. Daniel Balland's geographical research examines the origins and expansion of their breeding in Central Asia and its relationship with the fur trade.",
         "European names for the pelts sometimes refer to Astrakhan or Persia, but these names do not necessarily identify where the animals were originally raised. The Herat card evokes a regional economy of livestock and goods; twentieth-century industrial exports should not be projected into the game's period without explanation."
@@ -3261,7 +3261,7 @@
         },
         {
           "title": "Card 61 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_61.jpg"
+          "url": "assets/cards/card_61.jpg"
         }
       ],
       "places": [
@@ -3291,7 +3291,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_62.jpg",
+      "source": "assets/cards/card_62.jpg",
       "bio": [
         "A qanat, or karez, carries groundwater by gravity to lower-lying land. This technology has a long history in Persia and Afghanistan, and agriculture in some arid areas depended on its maintenance.",
         "Building and repairing its channels required labour and cooperation. The card is read here in terms of the relationship between water, land, and the capacity to organise society; neither the invention nor the construction of every qanat is attributed to a particular government or individual in the 1830s."
@@ -3303,7 +3303,7 @@
         },
         {
           "title": "Card 62 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_62.jpg"
+          "url": "assets/cards/card_62.jpg"
         }
       ],
       "places": [
@@ -3334,7 +3334,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_63.jpg",
+      "source": "assets/cards/card_63.jpg",
       "bio": [
         "Farah was a strategic station on the caravan route between Kandahar and Herat. The town and its road did more than carry luxury goods: historical accounts also mention the transport of wheat and materials used in gunpowder.",
         "Conflict between the powers of Herat and Kandahar was tied to the town's location, and repeated conquest and plunder damaged it. The line on the map is merely a schematic connection between these cities, not a modern paved road or administrative boundary."
@@ -3346,7 +3346,7 @@
         },
         {
           "title": "Card 63 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_63.jpg"
+          "url": "assets/cards/card_63.jpg"
         }
       ],
       "places": [
@@ -3380,7 +3380,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_64.jpg",
+      "source": "assets/cards/card_64.jpg",
       "bio": [
         "Opium has a long medical and commercial history in the region. However, the scale and organisation of today's drug economy cannot be attributed to early nineteenth-century Afghanistan.",
         "Research in Encyclopaedia Iranica shows that the major expansion of Persia's export production occurred mainly from the mid-nineteenth century onward. This is a regional comparison, not a statistic for Herat's production in 1830. The card presents opium fields as an agricultural and commercial subject; their precise scale and networks in Herat during the game's period have not been established."
@@ -3392,7 +3392,7 @@
         },
         {
           "title": "Card 64 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_64.jpg"
+          "url": "assets/cards/card_64.jpg"
         }
       ],
       "places": [
@@ -3420,7 +3420,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_65.jpg",
+      "source": "assets/cards/card_65.jpg",
       "bio": [
         "The Minaret of Jam is a monument of twelfth-century Ghurid civilisation, situated where the Jam River meets the Hari Rud, east of Herat. UNESCO dates its construction to 1194 and attributes it to Sultan Ghiyath al-Din.",
         "Its presence on a card therefore does not mean it was built in the time of Dost Mohammad or Mohammad Shah. This entry reveals a deeper layer of the region's historical geography. The construction date appears under the distant past rather than being forced onto the main nineteenth-century axis."
@@ -3432,7 +3432,7 @@
         },
         {
           "title": "Card 65 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_65.jpg"
+          "url": "assets/cards/card_65.jpg"
         }
       ],
       "places": [
@@ -3461,7 +3461,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_66.jpg",
+      "source": "assets/cards/card_66.jpg",
       "bio": [
         "Baluchi Smugglers refers to trade deemed unauthorised by a ruling power. Cross-border trade and smuggling should not be conflated: illegality depends on the laws, duties, and boundaries of the time.",
         "Specialist research on Persia's eastern borders in 1921–1941 shows that smuggling is not a timeless phenomenon. That research is used for conceptual caution, not to establish this group's activities in the 1830s. No specific route or individual has been attributed to the card without evidence."
@@ -3477,7 +3477,7 @@
         },
         {
           "title": "Card 66 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_66.jpg"
+          "url": "assets/cards/card_66.jpg"
         }
       ],
       "places": [
@@ -3507,7 +3507,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_67.jpg",
+      "source": "assets/cards/card_67.jpg",
       "bio": [
         "Wheat Fields refers to the foundations of subsistence and provisioning. Rulers and armies depended on rural production, storage, and grain transport to survive; war could turn this relationship from supply into pressure on the population.",
         "The account of Farah also mentions wheat as a product exported to Herat. The card itself represents no single event, and no harvest date, famine, or production figure has been invented for it."
@@ -3519,7 +3519,7 @@
         },
         {
           "title": "Card 67 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_67.jpg"
+          "url": "assets/cards/card_67.jpg"
         }
       ],
       "places": [
@@ -3550,7 +3550,7 @@
       "note": "Mirza Abu'l-Qasem; Abbas Mirza's minister and Mohammad Shah's chief minister",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_68.jpg",
+      "source": "assets/cards/card_68.jpg",
       "dates": "Circa 1779–1835",
       "active": [
         1821,
@@ -3571,7 +3571,7 @@
         },
         {
           "title": "Card 68 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_68.jpg"
+          "url": "assets/cards/card_68.jpg"
         }
       ],
       "places": [
@@ -3619,7 +3619,7 @@
       "note": "Russian representative in Iran; associated with the siege of Herat",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_69.jpg",
+      "source": "assets/cards/card_69.jpg",
       "dates": "1793–1851",
       "active": [
         1832,
@@ -3640,7 +3640,7 @@
         },
         {
           "title": "Card 69 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_69.jpg"
+          "url": "assets/cards/card_69.jpg"
         }
       ],
       "places": [
@@ -3680,7 +3680,7 @@
       "note": "Russian writer and diplomat; associated with the Treaty of Turkmenchay and Tehran",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_70.jpg",
+      "source": "assets/cards/card_70.jpg",
       "dates": "1794 or 1795–1829",
       "active": [
         1819,
@@ -3697,7 +3697,7 @@
         },
         {
           "title": "Card 70 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_70.jpg"
+          "url": "assets/cards/card_70.jpg"
         }
       ],
       "places": [
@@ -3739,7 +3739,7 @@
       "note": "Missionary and traveller; associated with investigating the fate of Stoddart and Conolly",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_71.jpg",
+      "source": "assets/cards/card_71.jpg",
       "dates": "1795–1862",
       "active": [
         1821,
@@ -3766,7 +3766,7 @@
         },
         {
           "title": "Card 71 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_71.jpg"
+          "url": "assets/cards/card_71.jpg"
         }
       ],
       "relations": [
@@ -3810,7 +3810,7 @@
       "note": "British political agent; associated with the Sikh court and the Khyber route",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_72.jpg",
+      "source": "assets/cards/card_72.jpg",
       "dates": "1794–1861",
       "active": [
         1823,
@@ -3827,7 +3827,7 @@
         },
         {
           "title": "Card 72 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_72.jpg"
+          "url": "assets/cards/card_72.jpg"
         }
       ],
       "places": [
@@ -3879,7 +3879,7 @@
       "note": "French officer in Ranjit Singh's service",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_73.jpg",
+      "source": "assets/cards/card_73.jpg",
       "dates": "1785–1839",
       "active": [
         1822,
@@ -3904,7 +3904,7 @@
         },
         {
           "title": "Card 73 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_73.jpg"
+          "url": "assets/cards/card_73.jpg"
         }
       ],
       "places": [
@@ -3940,7 +3940,7 @@
       "note": "Mohammad Shah's chief minister; associated with Qajar policy towards Herat",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_74.jpg",
+      "source": "assets/cards/card_74.jpg",
       "dates": "Circa 1783–1849",
       "active": [
         1824,
@@ -3957,7 +3957,7 @@
         },
         {
           "title": "Card 74 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_74.jpg"
+          "url": "assets/cards/card_74.jpg"
         }
       ],
       "places": [
@@ -3999,7 +3999,7 @@
       "note": "Fath-Ali Shah's crown prince; Mohammad Shah's father and a patron of military reform",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_75.jpg",
+      "source": "assets/cards/card_75.jpg",
       "dates": "1789–1833",
       "active": [
         1799,
@@ -4016,7 +4016,7 @@
         },
         {
           "title": "Card 75 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_75.jpg"
+          "url": "assets/cards/card_75.jpg"
         }
       ],
       "places": [
@@ -4064,7 +4064,7 @@
       "note": "King of Iran; Abbas Mirza's father and Mohammad Shah's grandfather",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_76.jpg",
+      "source": "assets/cards/card_76.jpg",
       "dates": "1769–1834",
       "active": [
         1797,
@@ -4081,7 +4081,7 @@
         },
         {
           "title": "Card 76 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_76.jpg"
+          "url": "assets/cards/card_76.jpg"
         }
       ],
       "places": [
@@ -4123,7 +4123,7 @@
       "note": "King of Iran; associated with the siege of Herat in 1837–1838",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_77.jpg",
+      "source": "assets/cards/card_77.jpg",
       "dates": "1808–1848",
       "active": [
         1833,
@@ -4144,7 +4144,7 @@
         },
         {
           "title": "Card 77 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_77.jpg"
+          "url": "assets/cards/card_77.jpg"
         }
       ],
       "places": [
@@ -4204,7 +4204,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_78.jpg",
+      "source": "assets/cards/card_78.jpg",
       "bio": [
         "Civic Improvements is the title of a policy or set of activities: building, repairing, and maintaining urban spaces and infrastructure. Its presence among the Persia cards is a reminder that government involved more than diplomacy and campaigning.",
         "The card's broad title cannot identify a project with a particular name, architect, and opening date. In this version, the entry addresses the theme of public works and authority without attributing every depicted project to Hajj Mirza Aghasi or a particular shah."
@@ -4216,7 +4216,7 @@
         },
         {
           "title": "Card 78 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_78.jpg"
+          "url": "assets/cards/card_78.jpg"
         }
       ],
       "places": [
@@ -4245,7 +4245,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_79.jpg",
+      "source": "assets/cards/card_79.jpg",
       "bio": [
         "Persian Slave Markets refers to a real institution of coercion and the buying and selling of human beings. Willem Floor's study of southern Persia in 1825–1925 examines maritime and overland trading and enslaved people's domestic and agricultural labour.",
         "Historical narrative should not portray enslaved people merely as commodities in power politics. Persia's networks connected the Persian Gulf, Africa, the Caucasus, and Central Asia; this card cannot be equated with Khiva's markets."
@@ -4257,7 +4257,7 @@
         },
         {
           "title": "Card 79 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_79.jpg"
+          "url": "assets/cards/card_79.jpg"
         }
       ],
       "places": [
@@ -4288,7 +4288,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_80.jpg",
+      "source": "assets/cards/card_80.jpg",
       "bio": [
         "Trade between Britain and Persia operated through India, the Persian Gulf, and merchant networks. Treaties, tariffs, and diplomatic competition could create economic opportunities and constraints.",
         "This title is not confined to a single agreement, and Britain does not always mean an English trader physically present on the spot; local and Indian intermediaries played a role. Interpreting the card requires distinguishing the movement of goods from political alliance: trade did not necessarily imply the Persian government's loyalty to Britain."
@@ -4300,7 +4300,7 @@
         },
         {
           "title": "Card 80 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_80.jpg"
+          "url": "assets/cards/card_80.jpg"
         }
       ],
       "places": [
@@ -4331,7 +4331,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_81.jpg",
+      "source": "assets/cards/card_81.jpg",
       "bio": [
         "Trade between Russia and Persia mattered in connection with the Caucasian frontier and the Caspian Sea. The consequences of wars and treaty privileges were intertwined with the movement of goods and the balance of power.",
         "The card's title should not be treated as synonymous with Russia's complete economic domination of Persia. This entry presents a structural relationship without inventing a biography or date for an unidentified merchant or shipment."
@@ -4343,7 +4343,7 @@
         },
         {
           "title": "Card 81 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_81.jpg"
+          "url": "assets/cards/card_81.jpg"
         }
       ],
       "places": [
@@ -4375,7 +4375,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_82.jpg",
+      "source": "assets/cards/card_82.jpg",
       "bio": [
         "The Qajar army combined new regular forces with irregular troops. Abbas Mirza's reforms in Azerbaijan sought new forms of training and organisation; limited resources and local power structures remained important.",
         "The confrontations with Russia and the campaign against Herat are two principal contexts for understanding the card. The existence of regular regiments did not mean a unified army with a fixed capacity; nominal establishment figures should not be assumed, without examination, to represent the actual soldiers present."
@@ -4387,7 +4387,7 @@
         },
         {
           "title": "Card 82 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_82.jpg"
+          "url": "assets/cards/card_82.jpg"
         }
       ],
       "places": [
@@ -4419,7 +4419,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_83.jpg",
+      "source": "assets/cards/card_83.jpg",
       "bio": [
         "Shah's Guard denotes the force providing protection and military service around the Qajar monarchy. The relationship between court service, fighting organisation, and social status is a historical question that cannot be resolved by the image of a guard alone.",
         "The card does not name a particular person or regiment. This entry therefore makes no claims about a commander, the soldiers' ethnic origins, or a direct role in a specific assassination; its relationship with Fath-Ali Shah and Mohammad Shah is the institutional context of the court."
@@ -4435,7 +4435,7 @@
         },
         {
           "title": "Card 83 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_83.jpg"
+          "url": "assets/cards/card_83.jpg"
         }
       ],
       "places": [
@@ -4465,7 +4465,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_84.jpg",
+      "source": "assets/cards/card_84.jpg",
       "bio": [
         "Russian Regulars represents a military instrument of the Russian Empire. The Caucasian front and the Central Asian borders were different theatres of operations; they should not all be regarded as one continuous advance under a single commander.",
         "The Russo-Persian wars and, later, Perovsky's expedition to Khiva are important contexts for understanding these forces. The card's placement in Persia does not locate every Russian garrison or establish that a particular unit actually crossed Persia."
@@ -4481,7 +4481,7 @@
         },
         {
           "title": "Card 84 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_84.jpg"
+          "url": "assets/cards/card_84.jpg"
         }
       ],
       "places": [
@@ -4513,7 +4513,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_85.jpg",
+      "source": "assets/cards/card_85.jpg",
       "bio": [
         "Bukharan Jews were a Persian-speaking community with religious, family, and economic histories. Research in Encyclopaedia Iranica discusses their crafts and trade; this population should not be reduced to commercial intermediaries alone.",
         "The presence of an intelligence card in the game is no evidence that a religious community consisted of spies. In this historical account, the title refers to a community with a life of its own, and no collective clandestine relationship with a foreign power is inferred from the card's classification."
@@ -4525,7 +4525,7 @@
         },
         {
           "title": "Card 85 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_85.jpg"
+          "url": "assets/cards/card_85.jpg"
         }
       ],
       "places": [
@@ -4554,7 +4554,7 @@
       "note": "Russian envoy; associated with Dost Mohammad's negotiations in Kabul",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_86.jpg",
+      "source": "assets/cards/card_86.jpg",
       "dates": "1808–1839",
       "active": [
         1835,
@@ -4576,7 +4576,7 @@
         },
         {
           "title": "Card 86 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_86.jpg"
+          "url": "assets/cards/card_86.jpg"
         }
       ],
       "relations": [
@@ -4622,7 +4622,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_87.jpg",
+      "source": "assets/cards/card_87.jpg",
       "bio": [
         "Imperial Surveyors refers to the production of geographical knowledge in the service of government and military movement. Measuring routes, distances, and passes could be research while also informing political decisions and campaigns.",
         "This is a collective title, and not all its members have been identified. The work of boundary commissions acquired a different significance in the second half of the nineteenth century; later instruments and border-making should not be attributed to every surveyor of the 1830s."
@@ -4638,7 +4638,7 @@
         },
         {
           "title": "Card 87 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_87.jpg"
+          "url": "assets/cards/card_87.jpg"
         }
       ],
       "places": [
@@ -4669,7 +4669,7 @@
       "note": "British officer and agent in Central Asia; connected to Stoddart and Bukhara",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_88.jpg",
+      "source": "assets/cards/card_88.jpg",
       "dates": "1807–June 1842",
       "active": [
         1829,
@@ -4696,7 +4696,7 @@
         },
         {
           "title": "Card 88 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_88.jpg"
+          "url": "assets/cards/card_88.jpg"
         }
       ],
       "relations": [
@@ -4740,7 +4740,7 @@
       "note": "In the card's account: a Russian agent posing as a merchant; associated with Kashmir and Ranjit Singh",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_89.jpg",
+      "source": "assets/cards/card_89.jpg",
       "dates": "Birth and death dates were not established in the sources examined; documented activity in the early nineteenth century",
       "active": [
         1808,
@@ -4762,7 +4762,7 @@
         },
         {
           "title": "Card 89 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_89.jpg"
+          "url": "assets/cards/card_89.jpg"
         }
       ],
       "relations": [
@@ -4810,7 +4810,7 @@
       "note": "Emir of Bukhara; associated with the fate of Stoddart and Conolly",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_90.jpg",
+      "source": "assets/cards/card_90.jpg",
       "dates": "Reigned 1827–1860",
       "active": [
         1827,
@@ -4836,7 +4836,7 @@
         },
         {
           "title": "Card 90 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_90.jpg"
+          "url": "assets/cards/card_90.jpg"
         }
       ],
       "relations": [
@@ -4893,7 +4893,7 @@
       "note": "Khan of Khiva; associated with Russian–Khivan rivalry",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_91.jpg",
+      "source": "assets/cards/card_91.jpg",
       "dates": "Reigned 1825–1842",
       "active": [
         1825,
@@ -4923,7 +4923,7 @@
         },
         {
           "title": "Card 91 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_91.jpg"
+          "url": "assets/cards/card_91.jpg"
         }
       ],
       "relations": [
@@ -4962,7 +4962,7 @@
       "note": "Ruler of Kunduz; the card's claim that he later ruled Bukhara requires independent examination",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_92.jpg",
+      "source": "assets/cards/card_92.jpg",
       "dates": "Height of power in the 1820s and 1830s; end of rule and death disputed",
       "active": [
         1817,
@@ -4984,7 +4984,7 @@
         },
         {
           "title": "Card 92: source of the claim being criticized, not proof that he ruled Bukhara",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_92.jpg"
+          "url": "assets/cards/card_92.jpg"
         }
       ],
       "relations": [],
@@ -5019,7 +5019,7 @@
       "note": "Mohammad Ali Khan, ruler of Kokand; associated with rivalry with Bukhara",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_93.jpg",
+      "source": "assets/cards/card_93.jpg",
       "dates": "Reigned 1822–1842; killed in 1842",
       "active": [
         1822,
@@ -5041,7 +5041,7 @@
         },
         {
           "title": "Card 93 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_93.jpg"
+          "url": "assets/cards/card_93.jpg"
         }
       ],
       "relations": [
@@ -5080,7 +5080,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_94.jpg",
+      "source": "assets/cards/card_94.jpg",
       "bio": [
         "Khiva's slave markets formed part of Khwarazm's system of slavery. Jeff Eden's research shows that people abducted from the Persian and Russian borderlands were employed in agriculture, households, crafts, and military service.",
         "This history is more than a prelude to Russian intervention. Enslaved people's own resistance and agency also mattered in the transformation of slavery. The entry therefore does not replace an examination of political interests and wartime violence with a simple story of imperial rescue."
@@ -5092,7 +5092,7 @@
         },
         {
           "title": "Card 94 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_94.jpg"
+          "url": "assets/cards/card_94.jpg"
         }
       ],
       "places": [
@@ -5121,7 +5121,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_95.jpg",
+      "source": "assets/cards/card_95.jpg",
       "bio": [
         "Orenburg was more than a point on a map of Russia: it was a base for supplying food, fodder, pack animals, drivers, and information for movement across the steppe. Alexander Morrison's research shows that Russian and British armies in Central Asia during the first half of the nineteenth century still depended on animal transport. Camels and the skills needed to manage them came largely from local pastoral communities—the very people who sometimes faced imperial pressure and expansion. Military success therefore depended on negotiation, payment, and local cooperation, not simply on guns and cannon. [1]",
         "Perovsky's expedition to Khiva provides a clear example of the card's historical meaning. Stockpiling dried bread, meat, winter clothing, and animal feed in 1839 was a political and financial undertaking. On the march, each camel carrying supplies needed to be fed, so part of the carrying capacity sustained the transport system itself. Severe cold and animal deaths immobilised the Russian force before it reached Khiva. The card should be read alongside Perovsky, the khan of Khiva, and the question of trade routes: logistics set the practical limits of imperial power. [1,2]"
@@ -5137,7 +5137,7 @@
         },
         {
           "title": "Card 95 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_95.jpg"
+          "url": "assets/cards/card_95.jpg"
         }
       ],
       "places": [
@@ -5180,7 +5180,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_96.jpg",
+      "source": "assets/cards/card_96.jpg",
       "bio": [
         "Panjdeh was the name of an oasis and a group of settlements in the Murghab basin near its junction with the Kushk River. Thomas Holdich, a geographer and member of the boundary mission, describes it within this network of rivers and routes between Herat, the Murghab, and Merv. The card's name should therefore not be treated simply as a single battlefield point or a present-day border town. [1]",
         "The well-known Panjdeh crisis occurred in 1885, following Russia's advance into the area, and concerned the delineation of Afghanistan's northwestern border. In its introduction to historical maps, the Library of Congress identifies the seizure of the Panjdeh oasis as a stage in that crisis. This date matters to the place's later history, but the oasis card does not necessarily represent the incident of 1885 specifically. [2]"
@@ -5196,7 +5196,7 @@
         },
         {
           "title": "Card 96 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_96.jpg"
+          "url": "assets/cards/card_96.jpg"
         }
       ],
       "places": [
@@ -5229,7 +5229,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_97.jpg",
+      "source": "assets/cards/card_97.jpg",
       "bio": [
         "The Ark of Bukhara was the principal residence of the city's rulers and retained that role until 1920. What survives is not the product of a single construction date: the complex was repeatedly destroyed, rebuilt, and extended. Bukhara Museum's introduction lists audience and throne halls, a mosque, government officials' courtyards, a treasury, an arsenal, storerooms, and courtiers' residences among its components. The surviving structures belong to different periods, particularly those of the Ashtarkhanid and Manghit dynasties. [1]",
         "Within Pax Pamir's historical setting, the Ark was a material concentration of the emir's power: a place where reception ceremonies, state administration, and the display of distance between ruler and foreign envoy came together. This interpretation clarifies the card's thematic connection with Nasrullah Khan and the missions of Stoddart and Conolly. However, the image of the Ark does not justify locating every prison, act of torture, or execution site in Bukhara inside the complex. Details of those episodes require mission accounts and independent research. [2]",
@@ -5250,7 +5250,7 @@
         },
         {
           "title": "Card 97 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_97.jpg"
+          "url": "assets/cards/card_97.jpg"
         }
       ],
       "places": [
@@ -5290,7 +5290,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_98.jpg",
+      "source": "assets/cards/card_98.jpg",
       "bio": [
         "European Cannons indicates the circulation of technology, specialists, and methods of military training. In the region's armies, buying weapons or hiring foreign officers could form part of a programme to strengthen power.",
         "Abbas Mirza's reforms provide a documented example of attention to new organisation and training. The card's title does not, however, reveal where every cannon was made or which government gave it as a gift; European weapons did not necessarily mean European political command over the force using them."
@@ -5302,7 +5302,7 @@
         },
         {
           "title": "Card 98 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_98.jpg"
+          "url": "assets/cards/card_98.jpg"
         }
       ],
       "places": [
@@ -5334,7 +5334,7 @@
       "note": "A distinct subject of historical research",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_99.jpg",
+      "source": "assets/cards/card_99.jpg",
       "bio": [
         "The Cossacks were forces with distinctive organisational traditions within the Russian Empire, employed in frontier settings. This card should not be confused with Persia's Cossack Brigade.",
         "Persia's Cossack Brigade was a later development under Naser al-Din Shah. The card's Russian classification refers to an imperial force; inferring the presence of that later Persian formation during Mohammad Shah's reign would be an anachronism."
@@ -5346,7 +5346,7 @@
         },
         {
           "title": "Card 99 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_99.jpg"
+          "url": "assets/cards/card_99.jpg"
         }
       ],
       "places": [
@@ -5375,7 +5375,7 @@
       "note": "Vasily Perovsky; associated with Orenburg and Russia's expedition to Khiva",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_100.jpg",
+      "source": "assets/cards/card_100.jpg",
       "dates": "1795–1857; some catalogues give 1794 as his birth year",
       "active": [
         1833,
@@ -5401,7 +5401,7 @@
         },
         {
           "title": "Card 100 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_100.jpg"
+          "url": "assets/cards/card_100.jpg"
         }
       ],
       "relations": [
@@ -5438,7 +5438,7 @@
       "note": "Four repeated cards: a mechanism for assessing power in the game, without independent historical dates",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_101.jpg",
+      "source": "assets/cards/card_101.jpg",
       "bio": [
         "Historically, the four Dominance Check cards are not separate events. The image of a hall of power in the Bala Hissar may evoke the relationship between authority and court, but a card number does not translate into a particular year or reign.",
         "The card remains in the complete catalogue so that nothing from the source is omitted. The building's history is explained in the Bala Hissar entry; this entry does not teach the game's mechanisms."
@@ -5454,7 +5454,7 @@
         },
         {
           "title": "Card 101 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_101.jpg"
+          "url": "assets/cards/card_101.jpg"
         }
       ],
       "places": [
@@ -5482,7 +5482,7 @@
       "note": "Four repeated cards: a mechanism for assessing power in the game, without independent historical dates",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_102.jpg",
+      "source": "assets/cards/card_102.jpg",
       "bio": [
         "Historically, the four Dominance Check cards are not separate events. The image of a hall of power in the Bala Hissar may evoke the relationship between authority and court, but a card number does not translate into a particular year or reign.",
         "The card remains in the complete catalogue so that nothing from the source is omitted. The building's history is explained in the Bala Hissar entry; this entry does not teach the game's mechanisms."
@@ -5498,7 +5498,7 @@
         },
         {
           "title": "Card 102 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_102.jpg"
+          "url": "assets/cards/card_102.jpg"
         }
       ],
       "places": [
@@ -5526,7 +5526,7 @@
       "note": "Four repeated cards: a mechanism for assessing power in the game, without independent historical dates",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_103.jpg",
+      "source": "assets/cards/card_103.jpg",
       "bio": [
         "Historically, the four Dominance Check cards are not separate events. The image of a hall of power in the Bala Hissar may evoke the relationship between authority and court, but a card number does not translate into a particular year or reign.",
         "The card remains in the complete catalogue so that nothing from the source is omitted. The building's history is explained in the Bala Hissar entry; this entry does not teach the game's mechanisms."
@@ -5542,7 +5542,7 @@
         },
         {
           "title": "Card 103 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_103.jpg"
+          "url": "assets/cards/card_103.jpg"
         }
       ],
       "places": [
@@ -5570,7 +5570,7 @@
       "note": "Four repeated cards: a mechanism for assessing power in the game, without independent historical dates",
       "second": "",
       "second_en": "",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_104.jpg",
+      "source": "assets/cards/card_104.jpg",
       "bio": [
         "Historically, the four Dominance Check cards are not separate events. The image of a hall of power in the Bala Hissar may evoke the relationship between authority and court, but a card number does not translate into a particular year or reign.",
         "The card remains in the complete catalogue so that nothing from the source is omitted. The building's history is explained in the Bala Hissar entry; this entry does not teach the game's mechanisms."
@@ -5586,7 +5586,7 @@
         },
         {
           "title": "Card 104 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_104.jpg"
+          "url": "assets/cards/card_104.jpg"
         }
       ],
       "places": [
@@ -5614,7 +5614,7 @@
       "note": "Changes in methods of warfare; a broad title without a definite date",
       "second": "Military",
       "second_en": "Military",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_105.jpg",
+      "source": "assets/cards/card_105.jpg",
       "bio": [
         "New Tactics can be read in the context of changes in formations, training, and the use of cannon and firearms in the region's armies. Qajar reforms and the service of foreign officers in Punjab are examples of the circulation of military knowledge.",
         "The card's other title, Military, does not name a particular war. Its connections here with Abbas Mirza, Allard, and regular armies are thematic, not evidence that a specific historical decision or order is represented on the card."
@@ -5630,7 +5630,7 @@
         },
         {
           "title": "Card 105 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_105.jpg"
+          "url": "assets/cards/card_105.jpg"
         }
       ],
       "places": [
@@ -5663,7 +5663,7 @@
       "note": "The Koh-i-noor diamond, a symbol of power and connections between the Durrani and Sikh courts; identifying the precise episode requires research",
       "second": "Embarrassment of Riches",
       "second_en": "Embarrassment of Riches",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_106.jpg",
+      "source": "assets/cards/card_106.jpg",
       "bio": [
         "As the Koh-i-noor moved between courts, it was both an asset and a symbol of authority. Its transfer from Shah Shuja to Ranjit Singh in 1813 is an important context for understanding connections between the Durrani and Sikh courts.",
         "Recovered is a title framed in terms of ownership and legitimacy; a known transfer does not necessarily identify the episode intended by the card's broad title. Embarrassment of Riches is another aspect of the theme of wealth and power. The title alone establishes neither a lawful owner nor an uncontested account of the parties' consent."
@@ -5679,7 +5679,7 @@
         },
         {
           "title": "Card 106 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_106.jpg"
+          "url": "assets/cards/card_106.jpg"
         }
       ],
       "places": [
@@ -5708,7 +5708,7 @@
       "note": "Ceremony and rules of political conduct at court; a broad historical concept",
       "second": "Disregard for Customs",
       "second_en": "Disregard for Customs",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_107.jpg",
+      "source": "assets/cards/card_107.jpg",
       "bio": [
         "Courtly Manners and Disregard for Customs are two sides of a diplomatic question: who is entitled to access, precedence, and respect, and how is that standing expressed? The courts of Kabul, Tehran, and Bukhara each had their own ceremonial order.",
         "Foreign agents' accounts sometimes reduce a mission's failure to personal behaviour or an insult. A historical account must set such stories alongside the balance of power and political expectations. Stoddart offers a related avenue of inquiry, not conclusive evidence identifying the event represented on this card."
@@ -5724,7 +5724,7 @@
         },
         {
           "title": "Card 107 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_107.jpg"
+          "url": "assets/cards/card_107.jpg"
         }
       ],
       "places": [
@@ -5758,7 +5758,7 @@
       "note": "The circulation of news and political credibility; the title does not establish a specific dated event",
       "second": "Failure to Impress",
       "second_en": "Failure to Impress",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_108.jpg",
+      "source": "assets/cards/card_108.jpg",
       "bio": [
         "Rumor refers to an economy of news in which the boundaries between an agent's report, market conversation, and caravan intelligence were not always clear. Assessing a source's credibility was part of political work.",
         "Failure to Impress is the other side of the card. Connecting these titles with the intelligence networks of Mohan Lal, Burnes, or Witkiewicz is a thematic interpretation; no specific rumour has been attributed to them without evidence."
@@ -5774,7 +5774,7 @@
         },
         {
           "title": "Card 108 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_108.jpg"
+          "url": "assets/cards/card_108.jpg"
         }
       ],
       "places": [
@@ -5804,7 +5804,7 @@
       "note": "The strain of war and regional unrest; it should not be attributed to a particular uprising without evidence",
       "second": "Riots in Punjab",
       "second_en": "Riots in Punjab",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_109.jpg",
+      "source": "assets/cards/card_109.jpg",
       "bio": [
         "Conflict Fatigue is not the name of a battle or treaty. The theme offers a way to consider the pressure of war on resources, livelihoods, and the capacity to sustain coalitions.",
         "The title Riots in Punjab also has more than one possible referent. The succession crisis after Ranjit Singh's death and subsequent wars provide relevant contexts, but this dashboard does not definitively attach the card to a particular uprising or year."
@@ -5816,7 +5816,7 @@
         },
         {
           "title": "Card 109 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_109.jpg"
+          "url": "assets/cards/card_109.jpg"
         }
       ],
       "places": [
@@ -5846,7 +5846,7 @@
       "note": "Political solidarity and local resistance; the meaning of nationalism in this period requires historical explanation",
       "second": "Riots in Herat",
       "second_en": "Riots in Herat",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_110.jpg",
+      "source": "assets/cards/card_110.jpg",
       "bio": [
         "Nationalism is a term that requires caution when applied to the early nineteenth century. Resistance to foreign intervention could coexist with local, dynastic, tribal, and religious loyalties; this combination was not necessarily the same as twentieth-century state nationalism.",
         "Riots in Herat raises a separate local context. Defence during the siege of 1837–1838 and Yar Mohammad's politics are relevant subjects for study, but the card's title does not establish its identity with any particular uprising."
@@ -5866,7 +5866,7 @@
         },
         {
           "title": "Card 110 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_110.jpg"
+          "url": "assets/cards/card_110.jpg"
         }
       ],
       "places": [
@@ -5896,7 +5896,7 @@
       "note": "Withdrawal of support or political commitment; no definite date or specific instance is established",
       "second": "No effect",
       "second_en": "No effect",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_111.jpg",
+      "source": "assets/cards/card_111.jpg",
       "bio": [
         "Public Withdrawal refers to announcing the end of support or stepping back from a political commitment. In the world of these cards, patronage could be personal, dynastic, or negotiated; a shift in position must be read in its own time and circumstances.",
         "No document has been identified that establishes a single declaration, date, or speaker for this title. No effect at the top of the card adds no separate historical content, and no invented account has been written for it."
@@ -5908,7 +5908,7 @@
         },
         {
           "title": "Card 111 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_111.jpg"
+          "url": "assets/cards/card_111.jpg"
         }
       ],
       "places": [],
@@ -5930,7 +5930,7 @@
       "note": "Building political power and unrest in Kabul; a possible connection with the uprising of 1841 must be assessed independently",
       "second": "Riots in Kabul",
       "second_en": "Riots in Kabul",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_112.jpg",
+      "source": "assets/cards/card_112.jpg",
       "bio": [
         "Nation Building is the card's title. In a historical account, concentrating power and building a state often describes the processes of Dost Mohammad's era more precisely: government had to connect revenue, armed force, and local authority.",
         "Riots in Kabul can be studied alongside the uprising of November 1841. That uprising has its own separate, documented event on the timeline; this connection is presented as research context, not as a definitive claim about the designer's intention for this particular card."
@@ -5950,7 +5950,7 @@
         },
         {
           "title": "Card 112 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_112.jpg"
+          "url": "assets/cards/card_112.jpg"
         }
       ],
       "places": [
@@ -5981,7 +5981,7 @@
       "note": "The role of aristocratic elites and unrest in Qajar politics; a broad title",
       "second": "Riots in Persia",
       "second_en": "Riots in Persia",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_113.jpg",
+      "source": "assets/cards/card_113.jpg",
       "bio": [
         "Backing of Persian Aristocracy refers to the role of elites and holders of resources in sustaining royal power. Courtly support could involve governing a province, providing troops, or competing for office.",
         "The other title, Riots in Persia, is very broad. The succession struggle of 1834 provides relevant context for studying Mohammad Shah and Qaem Maqam, but without evidence this card should not be turned into a single uprising in a particular city."
@@ -5997,7 +5997,7 @@
         },
         {
           "title": "Card 113 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_113.jpg"
+          "url": "assets/cards/card_113.jpg"
         }
       ],
       "places": [
@@ -6030,7 +6030,7 @@
       "note": "Pressure and informal means of securing support; identifying a historical instance requires investigation",
       "second": "Confidence Failure",
       "second_en": "Confidence Failure",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_114.jpg",
+      "source": "assets/cards/card_114.jpg",
       "bio": [
         "Other Persuasive Methods, contrasted with Confidence Failure, points to the informal and sometimes coercive side of politics. The phrase is insufficient to establish a particular assassination, act of torture, bribe, or conspiracy.",
         "Political pressure or violence is mentioned in personal dossiers only where there is an independent source. This card itself remains among undated themes: readers can compare it with the dossiers without attributing an unidentified event to a particular individual."
@@ -6042,7 +6042,7 @@
         },
         {
           "title": "Card 114 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_114.jpg"
+          "url": "assets/cards/card_114.jpg"
         }
       ],
       "places": [],
@@ -6064,7 +6064,7 @@
       "note": "Pashtunwali's social norms: a historical and social phenomenon rather than a one-day event",
       "second": "Intelligence",
       "second_en": "Intelligence",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_115.jpg",
+      "source": "assets/cards/card_115.jpg",
       "bio": [
         "Pashtunwali is a set of social and ethical norms; it should not be imagined as an unchanging and uniform legal code for all Pashtuns. Pelevin's historical research on nanawati shows that seeking refuge, mediation, and reconciliation took complex, context-dependent forms.",
         "This card is not a one-day event, and its other title, Intelligence, has no separate date either. Its connection with Pashtun society in this dashboard is cultural, not evidence that all Pashtun individuals behaved identically."
@@ -6080,7 +6080,7 @@
         },
         {
           "title": "Card 115 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_115.jpg"
+          "url": "assets/cards/card_115.jpg"
         }
       ],
       "places": [
@@ -6111,7 +6111,7 @@
       "note": "Admonishment and political pressure; a broad title without a definite date",
       "second": "Political",
       "second_en": "Political",
-      "source": "https://rally-the-troops.com/pax-pamir/cards/card_116.jpg",
+      "source": "assets/cards/card_116.jpg",
       "bio": [
         "Rebuke refers to political and verbal admonishment. It may have meaning in courtly or diplomatic relations, but the short title does not identify a letter's text or a particular speaker.",
         "The title at the top of the card is Political. This entry deliberately remains a theme: no particular date, recipient, or historical consequence has been invented for it. This evidentiary limitation is different from the absence of dates in an individual's biography."
@@ -6123,7 +6123,7 @@
         },
         {
           "title": "Card 116 image and title; game-design source",
-          "url": "https://rally-the-troops.com/pax-pamir/cards/card_116.jpg"
+          "url": "assets/cards/card_116.jpg"
         }
       ],
       "places": [],

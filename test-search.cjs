@@ -7,6 +7,15 @@ const path=require('node:path');
   const page=await browser.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));
   const url='file:///'+path.resolve(file).replaceAll('\\','/');await page.goto(url);
   assert.equal(await page.locator('#globalSearch').count(),1);
+  await page.evaluate(()=>showCard(7));
+  const imageLink=page.locator('#profile a[href="assets/cards/card_7.jpg"]');
+  assert.equal(await imageLink.count(),1);
+  await page.waitForFunction(()=>document.querySelector('#profile img').naturalWidth>0);
+  assert.equal(await page.locator('#profile img').getAttribute('src'),'assets/cards/card_7.jpg');
+  await page.locator('#closeDrawer').click();
+  await page.evaluate(()=>showView('method',false));
+  assert(await page.locator('#bibliography a[href="assets/cards/card_7.jpg"]').count()>0);
+  await page.evaluate(()=>showView('story',false));
   for(const [kind,collection] of [['card','cards'],['event','events'],['place','places'],['chapter','narrative']]){
    const title=await page.evaluate(({collection})=>{const x=D[collection][0];return x.fa||x.title},{collection});
    await page.locator('#globalSearch').fill(title);
