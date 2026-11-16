@@ -32,8 +32,8 @@ const path=require('node:path');
      if(link.querySelector('img')?.getAttribute('src')!==C.get(otherId).image){
       issues.push(`Missing related card image: ${card.id} / ${otherId}`);
      }
-     const direct=edges.find(e=>e.source===card.id&&e.target===otherId);
-     const reverse=edges.find(e=>e.source===otherId&&e.target===card.id);
+     const direct=edges.find(e=>e.source===otherId&&e.target===card.id);
+     const reverse=edges.find(e=>e.source===card.id&&e.target===otherId);
      if(!direct&&!reverse)continue;
      const details=link.closest('.relation').querySelectorAll('.relation-details > div');
      if(details.length!==1||direct&&!details[0].textContent.includes(direct.label)||
@@ -51,6 +51,11 @@ const path=require('node:path');
   await page.waitForFunction(()=>document.querySelector('.related-card[data-card="76"] img').naturalWidth>0);
   await page.locator('.related-card[data-card="77"]').click();
   assert(await page.locator('.related-card[data-card="75"]').isVisible());
+  if(file==='en.html'){
+   const relatedText=id=>page.locator(`.relation:has(.related-card[data-card="${id}"])`).textContent();
+   assert.match(await relatedText(75),/Father of Mohammad Shah/);
+   assert.match(await relatedText(76),/Grandfather and predecessor of Mohammad Shah/);
+  }
   await page.locator('#closeDrawer').click();
   await page.evaluate(()=>{document.getElementById('networkMode').value='all';showView('network',false);});
   assert.equal(await page.locator('#networkSvg [data-edge]').count(),64);

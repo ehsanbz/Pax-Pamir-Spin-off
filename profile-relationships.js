@@ -72,9 +72,12 @@ function relatedCardButton(id) {
 
 function renderProfileRelationships(groups, cardId, sourceLabel) {
   return [...groups].map(([otherId, edges]) => {
-    const direct = edges.find(edge => edge.source === cardId);
-    const reverse = edges[0];
-    const description = direct || { ...reverse, label: reverseRelationshipLabel(reverse) };
+    const relatedPerspective = edges.find(edge => edge.source === otherId);
+    const selectedPerspective = edges.find(edge => edge.source === cardId);
+    const description = relatedPerspective || {
+      ...selectedPerspective,
+      label: reverseRelationshipLabel(selectedPerspective),
+    };
     return `<div class="relation">${relatedCardButton(otherId)}${renderRelationshipDetails([description], sourceLabel)}</div>`;
   }).join('');
 }
