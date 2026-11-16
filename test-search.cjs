@@ -5,13 +5,40 @@ const path=require('node:path');
  const browser=await chromium.launch({headless:true,channel:"msedge"});
  for(const file of ['en.html','index.html']){
   const page=await browser.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));
-  const url='file:///'+path.resolve(file).replaceAll('\\','/');await page.goto(url);
+  const url=process.env.TEST_BASE_URL
+   ? new URL(file,process.env.TEST_BASE_URL).href
+   : 'file:///'+path.resolve(file).replaceAll('\\','/');
+  await page.goto(url);
   assert.equal(await page.locator('#globalSearch').count(),1);
   await page.evaluate(()=>showCard(7));
   const imageLink=page.locator('#profile a[href="assets/cards/card_7.jpg"]');
   assert.equal(await imageLink.count(),1);
   await page.waitForFunction(()=>document.querySelector('#profile img').naturalWidth>0);
   assert.equal(await page.locator('#profile img').getAttribute('src'),'assets/cards/card_7.jpg');
+  const relationshipIssues=await page.evaluate(()=>{
+   const issues=[];
+   for(const card of D.cards.filter(c=>c.related?.length||D.edges.some(e=>e.source===c.id||e.target===c.id))){
+    showCard(card.id,false);
+    const profile=document.getElementById('profile');
+    const links=[...profile.querySelectorAll('.relation button[data-card],.chip[data-card]')];
+    const ids=links.map(link=>Number(link.dataset.card));
+    const edges=D.edges.filter(e=>e.source===card.id||e.target===card.id);
+    const expected=new Set([...(card.related||[]),...edges.map(e=>e.source===card.id?e.target:e.source)]);
+    if(ids.length!==expected.size||new Set(ids).size!==expected.size||ids.some(id=>!expected.has(id))){
+     issues.push(`Missing or repeated related card on profile ${card.id}`);
+    }
+    for(const edge of edges){
+     const otherId=edge.source===card.id?edge.target:edge.source;
+     const relation=profile.querySelector(`.relation button[data-card="${otherId}"]`)?.closest('.relation');
+     const matchingSource=[...relation?.querySelectorAll('.relation-details')||[]].some(group=>
+      group.textContent.includes(edge.type)&&group.textContent.includes(edge.label)&&
+      group.querySelector('a')?.getAttribute('href')===edge.url);
+     if(!matchingSource)issues.push(`Missing relationship detail or source: ${card.id} / ${otherId}`);
+    }
+   }
+   return issues;
+  });
+  assert.deepEqual(relationshipIssues,[]);
   await page.locator('#closeDrawer').click();
   await page.evaluate(()=>showView('method',false));
   assert(await page.locator('#bibliography a[href="assets/cards/card_7.jpg"]').count()>0);
