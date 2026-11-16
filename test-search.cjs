@@ -13,33 +13,60 @@ const path=require('node:path');
   await page.evaluate(()=>showCard(7));
   const imageLink=page.locator('#profile a[href="assets/cards/card_7.jpg"]');
   assert.equal(await imageLink.count(),1);
-  await page.waitForFunction(()=>document.querySelector('#profile img').naturalWidth>0);
-  assert.equal(await page.locator('#profile img').getAttribute('src'),'assets/cards/card_7.jpg');
+  await page.waitForFunction(()=>document.querySelector('#profile .portrait').naturalWidth>0);
+  assert.equal(await page.locator('#profile .portrait').getAttribute('src'),'assets/cards/card_7.jpg');
   const relationshipIssues=await page.evaluate(()=>{
    const issues=[];
    for(const card of D.cards.filter(c=>c.related?.length||D.edges.some(e=>e.source===c.id||e.target===c.id))){
     showCard(card.id,false);
     const profile=document.getElementById('profile');
-    const links=[...profile.querySelectorAll('.relation button[data-card],.chip[data-card]')];
+    const links=[...profile.querySelectorAll('.related-card[data-card]')];
     const ids=links.map(link=>Number(link.dataset.card));
     const edges=D.edges.filter(e=>e.source===card.id||e.target===card.id);
     const expected=new Set([...(card.related||[]),...edges.map(e=>e.source===card.id?e.target:e.source)]);
     if(ids.length!==expected.size||new Set(ids).size!==expected.size||ids.some(id=>!expected.has(id))){
      issues.push(`Missing or repeated related card on profile ${card.id}`);
     }
-    for(const edge of edges){
-     const otherId=edge.source===card.id?edge.target:edge.source;
-     const relation=profile.querySelector(`.relation button[data-card="${otherId}"]`)?.closest('.relation');
-     const matchingSource=[...relation?.querySelectorAll('.relation-details')||[]].some(group=>
-      group.textContent.includes(edge.type)&&group.textContent.includes(edge.label)&&
-      group.querySelector('a')?.getAttribute('href')===edge.url);
-     if(!matchingSource)issues.push(`Missing relationship detail or source: ${card.id} / ${otherId}`);
+    for(const link of links){
+     const otherId=Number(link.dataset.card);
+     if(link.querySelector('img')?.getAttribute('src')!==C.get(otherId).image){
+      issues.push(`Missing related card image: ${card.id} / ${otherId}`);
+     }
+     const direct=edges.find(e=>e.source===card.id&&e.target===otherId);
+     const reverse=edges.find(e=>e.source===otherId&&e.target===card.id);
+     if(!direct&&!reverse)continue;
+     const details=link.closest('.relation').querySelectorAll('.relation-details > div');
+     if(details.length!==1||direct&&!details[0].textContent.includes(direct.label)||
+        !direct&&details[0].textContent.includes(reverse.label)){
+      issues.push(`Wrong relationship perspective: ${card.id} / ${otherId}`);
+     }
     }
    }
+   showCard(75,false);
+   const thumbnail=document.querySelector('.related-card[data-card="76"] img');
+   thumbnail.loading='eager';
    return issues;
   });
   assert.deepEqual(relationshipIssues,[]);
+  await page.waitForFunction(()=>document.querySelector('.related-card[data-card="76"] img').naturalWidth>0);
+  await page.locator('.related-card[data-card="77"]').click();
+  assert(await page.locator('.related-card[data-card="75"]').isVisible());
   await page.locator('#closeDrawer').click();
+  await page.evaluate(()=>{document.getElementById('networkMode').value='all';showView('network',false);});
+  assert.equal(await page.locator('#networkSvg [data-edge]').count(),64);
+  assert.equal(await page.locator('#relationTable tbody tr').count(),64);
+  const graphDetails=await page.evaluate(()=>{
+   const rows=[...document.querySelectorAll('#relationTable tbody tr')];
+   return D.edges.every(edge=>rows.some(row=>{
+    const ids=[...row.querySelectorAll('[data-card]')].map(button=>Number(button.dataset.card));
+    return ids.includes(edge.source)&&ids.includes(edge.target)&&row.textContent.includes(edge.label)&&
+     [...row.querySelectorAll('a')].some(link=>link.href===edge.url);
+   }));
+  });
+  assert.equal(graphDetails,true);
+  const familyEdge=await page.evaluate(()=>activeEdges.findIndex(pair=>pair.source===75&&pair.target===76));
+  await page.locator(`#networkSvg [data-edge="${familyEdge}"]`).press('Enter');
+  assert.equal(await page.locator('#edgeDetail a').count(),2);
   await page.evaluate(()=>showView('method',false));
   assert(await page.locator('#bibliography a[href="assets/cards/card_7.jpg"]').count()>0);
   await page.evaluate(()=>showView('story',false));
